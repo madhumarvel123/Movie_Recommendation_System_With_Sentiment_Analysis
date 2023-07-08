@@ -1,2 +1,2 @@
-# Movie_Recommendation_System_With_Sentiment_analysis
+# Movie_Recommendation_System_Sentiment_analysis
 Building And Deploying a Movie Recommender System
